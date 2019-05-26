@@ -1,6 +1,6 @@
-[submodule ".\\roles\\ubuntu-community-repositories"]
-	path = .\\roles\\ubuntu-community-repositories
+[submodule "roles/ubuntu-community-repositories"]
+	path = roles/ubuntu-community-repositories
 	url = https://github.com/jonchampagne/ansible-ubuntu-community-repositories
-[submodule ".\\roles\\active-directory-authentication"]
-	path = .\\roles\\active-directory-authentication
+[submodule "roles/active-directory-authentication"]
+	path = roles/active-directory-authentication
 	url = https://github.com/jonchampagne/ansible-active-directory-authentication.git
